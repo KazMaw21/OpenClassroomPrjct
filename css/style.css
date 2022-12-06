@@ -1,9 +1,13 @@
 body {
-  background-color: aquamarine;
+  background-color: rgb(64, 67, 66);
 }
 
 section {
-  background-color: aqua;
+  background-color: rgb(102, 103, 103);
+}
+article {
+  background-color: beige;
+  border-radius: 5%;
 }
 footer {
   background-color: gray;
