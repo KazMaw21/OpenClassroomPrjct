@@ -1,0 +1,8 @@
+finirr partie mobile
+fix height activité 
+mettre populairee en display flex
+--------
+
+
+nettoyer CSS
+Finir mobile
